@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-z3k(m61=w2jp9347ekh+u41z2-fa6%i-b88l&8cb0r@^_*93o#
 DEBUG = False
 
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['gscrollnews.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
